@@ -1,0 +1,186 @@
+{
+  "mods": [
+    {
+      "name": "Rayvens_Ammo",
+      "author": "Rayven",
+      "version": "1.0",
+      "week": "",
+      "compatibility": "",
+      "description": "Improved the damage output of obsidian arrow and cold steel ammo/arrows.",
+      "imageURL": "",
+      "readmeURL": "",
+      "files": {
+          "exmodz": "https://github.com/Nyghtrayven/Rayven-s-Icarus-Mods/raw/main/Rayvens_Ammo.EXMODZ"
+      }
+    },
+    {
+      "name": "Rayvens_Animal_Loot",
+      "author": "Rayven",
+      "version": "1.2",
+      "week": "",
+      "compatibility": "",
+      "description": "Added Super Cool Ice to boss loot table as well as red exotics.",
+      "imageURL": "",
+      "readmeURL": "",
+      "files": {
+          "exmodz": "https://github.com/Nyghtrayven/Rayven-s-Icarus-Mods/raw/main/Rayvens_Animal_Loot.EXMODZ"
+      }
+    },
+    {
+      "name": "Rayvens_Better_Tames",
+      "author": "Rayven",
+      "version": "1.0",
+      "week": "",
+      "compatibility": "",
+      "description": "Credit goes to Sarge. Decreased the levels on the pet from 200 to 100.",
+      "imageURL": "",
+      "readmeURL": "",
+      "files": {
+          "exmodz": "https://github.com/Nyghtrayven/Rayven-s-Icarus-Mods/raw/main/Rayvens_Better_Tames.EXMODZ"
+      }
+    },
+    {
+      "name": "Rayvens_Bigger_Pouches",
+      "author": "Rayven",
+      "version": "1.0",
+      "week": "",
+      "compatibility": "",
+      "description": "Increased slot size of pouches from 6 to 12.",
+      "imageURL": "",
+      "readmeURL": "",
+      "files": {
+          "exmodz": "https://github.com/Nyghtrayven/Rayven-s-Icarus-Mods/raw/main/Rayvens_Bigger_Pouches.EXMODZ"
+      }
+    },
+    {
+      "name": "Rayvens_Difficulty",
+      "author": "Rayven",
+      "version": "1.0",
+      "week": "",
+      "compatibility": "",
+      "description": "Increased just the difficulty for hard.",
+      "imageURL": "",
+      "readmeURL": "",
+      "files": {
+          "exmodz": "https://github.com/Nyghtrayven/Rayven-s-Icarus-Mods/raw/main/Rayvens_Difficulty.EXMODZ"
+      }
+    },
+    {
+      "name": "Rayvens_Durable_Tools",
+      "author": "Rayven",
+      "version": "1.1",
+      "week": "",
+      "compatibility": "",
+      "description": "Added arctic, desert, titanium tools and platinum plow to the list. Wind Turbine durability also increased. Increased how much milk the milk pail stores.",
+      "imageURL": "",
+      "readmeURL": "",
+      "files": {
+          "exmodz": "https://github.com/Nyghtrayven/Rayven-s-Icarus-Mods/raw/main/Rayvens_Durable_Tools.EXMODZ"
+      }
+    },
+    {
+      "name": "Rayvens_Legendaries",
+      "author": "Rayven",
+      "version": "1.4",
+      "week": "",
+      "compatibility": "",
+      "description": "Changed legendary bow to highlight shot projectile, lowered bow reload speed to 2 second(to compesate for the other things added.) Added distance to animal highlight; must have sense animal(hunting or module) for this to work. Added Javelin Launcher to the list.",
+      "imageURL": "",
+      "readmeURL": "",
+      "files": {
+          "exmodz": "https://github.com/Nyghtrayven/Rayven-s-Icarus-Mods/raw/main/Rayvens_Legendaries.EXMODZ"
+      }
+    },
+    {
+      "name": "Rayvens_Modules",
+      "author": "Rayven",
+      "version": "1.0",
+      "week": "",
+      "compatibility": "",
+      "description": "Buffed up some of the workshop modules.",
+      "imageURL": "",
+      "readmeURL": "",
+      "files": {
+          "exmodz": "https://github.com/Nyghtrayven/Rayven-s-Icarus-Mods/raw/main/Rayvens_Modules.EXMODZ"
+      }
+    },
+    {
+      "name": "Rayvens_More_Stuff",
+      "author": "Rayven",
+      "version": "1.0",
+      "week": "",
+      "compatibility": "",
+      "description": "Can never have enough stuff crafted.",
+      "imageURL": "",
+      "readmeURL": "",
+      "files": {
+          "exmodz": "https://github.com/Nyghtrayven/Rayven-s-Icarus-Mods/raw/main/Rayvens_More_Stuff.EXMODZ"
+      }
+    },
+    {
+      "name": "Rayvens_Mounts",
+      "author": "Rayven",
+      "version": "2.0",
+      "week": "",
+      "compatibility": "",
+      "description": "Increased speed of the horse, moa, buffalo and tusker. Increased weight capacity of buffalo, increased health and health regen on tusker. Takes longer to tame.",
+      "imageURL": "",
+      "readmeURL": "",
+      "files": {
+          "exmodz": "https://github.com/Nyghtrayven/Rayven-s-Icarus-Mods/raw/main/Rayvens_Mounts.EXMODZ"
+      }
+    },
+    {
+      "name": "Rayvens_Saddles",
+      "author": "Rayven",
+      "version": "1.1",
+      "week": "",
+      "compatibility": "",
+      "description": "Used Coracks_Saddle_Improvements as guide. Changed stats on bearhide saddle to match that of the racing saddle to give us a different flavor saddle. Buffed up Armored saddle for the battle ready mounts. Also not everyone has the DLC so I made the basic saddles have the equilavent of the DLC version.",
+      "imageURL": "",
+      "readmeURL": "",
+      "files": {
+          "exmodz": "https://github.com/Nyghtrayven/Rayven-s-Icarus-Mods/raw/main/Rayvens_Saddles.EXMODZ"
+      }
+    },
+    {
+      "name": "Rayvens_Small_Fish_Lure",
+      "author": "Rayven",
+      "version": "2.0",
+      "week": "",
+      "compatibility": "",
+      "description": "Made a stand alone lure catch only small fish for the aquariums.",
+      "imageURL": "",
+      "readmeURL": "",
+      "files": {
+          "exmodz": "https://github.com/Nyghtrayven/Rayven-s-Icarus-Mods/raw/main/Rayvens_Small_Fish_Lure.EXMODZ"
+      }
+    },
+    {
+      "name": "Rayvens_stacks_2.5k",
+      "author": "Rayven",
+      "version": "1.2",
+      "week": "197",
+      "compatibility": "",
+      "description": "Added Zailfyers charcoal and ash to the list. Must be last to load on the list for this to work properly.",
+      "imageURL": "",
+      "readmeURL": "",
+      "files": {
+          "exmodz": "https://github.com/Nyghtrayven/Rayven-s-Icarus-Mods/raw/main/Rayvens_stacks_2.5k.EXMODZ"
+      }
+    },
+    {
+      "name": "Rayvens_Workshop",
+      "author": "Rayven",
+      "version": "1.3",
+      "week": "",
+      "compatibility": "",
+      "description": "Changed damage output of Larkwell Ballistic. All ammo drops at 500. Regular resources drops at 250.",
+      "imageURL": "",
+      "readmeURL": "",
+      "files": {
+          "exmodz": "https://github.com/Nyghtrayven/Rayven-s-Icarus-Mods/raw/main/Rayvens_Workshop.EXMODZ"
+      }
+    }
+   ]
+ }
