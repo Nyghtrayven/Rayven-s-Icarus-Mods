@@ -157,6 +157,19 @@
       }
     },
     {
+      "name": "Rayvens_Smelting_Speed",
+      "author": "Rayven",
+      "version": "1.0",
+      "week": "",
+      "compatibility": "",
+      "description": "This mod increases the smelting speed of the furnace that has the stoking the flames alteration.",
+      "imageURL": "",
+      "readmeURL": "",
+      "files": {
+          "exmodz": "https://github.com/Nyghtrayven/Rayven-s-Icarus-Mods/raw/main/Rayvens_Smelting_Speed.EXMODZ"
+      }
+    },
+    {
       "name": "Rayvens_stacks_2.5k",
       "author": "Rayven",
       "version": "1.2",
