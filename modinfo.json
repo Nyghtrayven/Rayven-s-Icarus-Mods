@@ -81,10 +81,10 @@
     {
       "name": "Rayvens_Legendaries",
       "author": "Rayven",
-      "version": "1.4",
+      "version": "1.5",
       "week": "",
       "compatibility": "",
-      "description": "Changed legendary bow to highlight shot projectile, lowered bow reload speed to 2 second(to compesate for the other things added.) Added distance to animal highlight; must have sense animal(hunting or module) for this to work. Added Javelin Launcher to the list.",
+      "description": "Changed legendary bow to highlight shot projectile; Added distance to animal highlight; must have sense animal(hunting or module) for this to work. Added Javelin Launcher to the list.",
       "imageURL": "",
       "readmeURL": "",
       "files": {
@@ -123,7 +123,7 @@
       "version": "2.0",
       "week": "",
       "compatibility": "",
-      "description": "Increased speed of the horse, moa, buffalo and tusker. Increased weight capacity of buffalo, increased health and health regen on tusker. Takes longer to tame.",
+      "description": "Increased speed of the horse, moa, buffalo and tusker. Increased weight capacity of buffalo, increased health regen on tusker. Takes longer to tame.",
       "imageURL": "",
       "readmeURL": "",
       "files": {
