@@ -185,10 +185,10 @@
     {
       "name": "Rayvens_Workshop",
       "author": "Rayven",
-      "version": "1.3",
+      "version": "1.4",
       "week": "",
       "compatibility": "",
-      "description": "Changed damage output of Larkwell Ballistic. All ammo drops at 500. Regular resources drops at 250.",
+      "description": "Added chac pistol to the list, made changes to ammo capacity and reload speed.",
       "imageURL": "",
       "readmeURL": "",
       "files": {
