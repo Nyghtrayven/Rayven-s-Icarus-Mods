@@ -68,10 +68,10 @@
     {
       "name": "Rayvens_Durable_Tools",
       "author": "Rayven",
-      "version": "1.3",
+      "version": "1.4",
       "week": "",
       "compatibility": "",
-      "description": "Increased durability of chac firearms as well as the legendary bow.",
+      "description": "Increased durability of chac firearms as well as the legendaries.",
       "imageURL": "",
       "readmeURL": "",
       "files": {
@@ -133,10 +133,10 @@
     {
       "name": "Rayvens_Saddles",
       "author": "Rayven",
-      "version": "1.1",
+      "version": "1.2",
       "week": "",
       "compatibility": "",
-      "description": "Used Coracks_Saddle_Improvements as guide. Changed stats on bearhide saddle to match that of the racing saddle to give us a different flavor saddle. Buffed up Armored saddle for the battle ready mounts. Also not everyone has the DLC so I made the basic saddles have the equilavent of the DLC version.",
+      "description": "This version adds heavy cargo slots to armored saddles. Bearhide and Racing have same stats; Basic saddles all share the DLC stats.",
       "imageURL": "",
       "readmeURL": "",
       "files": {
@@ -188,7 +188,7 @@
       "version": "1.4",
       "week": "",
       "compatibility": "",
-      "description": "Added chac pistol to the list, made changes to ammo capacity and reload speed.",
+      "description": "Added chac firearms to the list, made changes to ammo capacity, reload speed for pistol and projectile damage to rifle as well as increased the ammo capacity.",
       "imageURL": "",
       "readmeURL": "",
       "files": {
