@@ -81,10 +81,10 @@
     {
       "name": "Rayvens_Legendaries",
       "author": "Rayven",
-      "version": "1.5",
+      "version": "1.6",
       "week": "",
       "compatibility": "",
-      "description": "Changed legendary bow to highlight shot projectile; Added distance to animal highlight; must have sense animal(hunting or module) for this to work. Added Javelin Launcher to the list.",
+      "description": "Added animal highlight distance to most legendaries. Decreased reload speed on some legendaries, increased ammo capacity on some of them as well. ",
       "imageURL": "",
       "readmeURL": "",
       "files": {
@@ -188,7 +188,7 @@
       "version": "1.4",
       "week": "",
       "compatibility": "",
-      "description": "Added chac firearms to the list, made changes to ammo capacity, reload speed for pistol and projectile damage to rifle as well as increased the ammo capacity.",
+      "description": "Added chac pistol to the list, made changes to ammo capacity and reload speed.",
       "imageURL": "",
       "readmeURL": "",
       "files": {
