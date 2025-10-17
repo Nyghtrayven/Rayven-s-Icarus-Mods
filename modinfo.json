@@ -120,10 +120,10 @@
     {
       "name": "Rayvens_Mounts",
       "author": "Rayven",
-      "version": "2.0",
+      "version": "2.1",
       "week": "",
       "compatibility": "",
-      "description": "Increased speed of the horse, moa, buffalo and tusker. Increased weight capacity of buffalo, increased health regen on tusker. Takes longer to tame.",
+      "description": "Added Ubis Mount to the list.",
       "imageURL": "",
       "readmeURL": "",
       "files": {
