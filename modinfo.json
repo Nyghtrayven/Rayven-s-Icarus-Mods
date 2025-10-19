@@ -107,10 +107,10 @@
     {
       "name": "Rayvens_More_Stuff",
       "author": "Rayven",
-      "version": "1.0",
+      "version": "1.1",
       "week": "",
       "compatibility": "",
-      "description": "Can never have enough stuff crafted.",
+      "description": "Decreased the speed of refined wood, platinum ingot and titanium ingots.",
       "imageURL": "",
       "readmeURL": "",
       "files": {
