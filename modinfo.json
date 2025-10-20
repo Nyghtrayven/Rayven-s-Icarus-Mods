@@ -79,6 +79,19 @@
       }
     },
     {
+      "name": "Rayvens_Legendaries",
+      "author": "Rayven",
+      "version": "1.7",
+      "week": "",
+      "compatibility": "",
+      "description": "Added animal highlight distance to most legendaries. Decreased reload speed on some legendaries, increased ammo capacity on some of them as well. Increased damage on biotech maul.",
+      "imageURL": "",
+      "readmeURL": "",
+      "files": {
+          "exmodz": "https://github.com/Nyghtrayven/Rayven-s-Icarus-Mods/raw/main/Rayvens_Legendaries.EXMODZ"
+      }
+    },
+    {
       "name": "Rayvens_Modules",
       "author": "Rayven",
       "version": "1.0",
@@ -160,7 +173,7 @@
       "name": "Rayvens_stacks_2.5k",
       "author": "Rayven",
       "version": "1.2",
-      "week": "197",
+      "week": "",
       "compatibility": "",
       "description": "Added Zailfyers charcoal and ash to the list. Must be last to load on the list for this to work properly.",
       "imageURL": "",
