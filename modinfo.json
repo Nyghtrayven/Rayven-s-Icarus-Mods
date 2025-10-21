@@ -27,6 +27,19 @@
       }
     },
     {
+      "name": "Rayvens_Better_Submachine_Gun",
+      "author": "Rayven",
+      "version": "1.0",
+      "week": "",
+      "compatibility": "",
+      "description": "Removed the negative stats and reduced the reload speed.",
+      "imageURL": "",
+      "readmeURL": "",
+      "files": {
+          "exmodz": "https://github.com/Nyghtrayven/Rayven-s-Icarus-Mods/raw/main/Rayvens_Better_Submachine_Gun.EXMODZ"
+      }
+    },
+    {
       "name": "Rayvens_Better_Tames",
       "author": "Rayven",
       "version": "1.1",
@@ -68,10 +81,10 @@
     {
       "name": "Rayvens_Durable_Tools",
       "author": "Rayven",
-      "version": "1.5",
+      "version": "1.6",
       "week": "",
       "compatibility": "",
-      "description": "Increased durability of maul.",
+      "description": "Increased durability of submachine gun.",
       "imageURL": "",
       "readmeURL": "",
       "files": {
