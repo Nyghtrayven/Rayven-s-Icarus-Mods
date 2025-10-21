@@ -29,10 +29,10 @@
     {
       "name": "Rayvens_Better_Tames",
       "author": "Rayven",
-      "version": "1.0",
+      "version": "1.1",
       "week": "",
       "compatibility": "",
-      "description": "Credit goes to Sarge. Decreased the levels on the pet from 200 to 100.",
+      "description": "Added better stats for tames.",
       "imageURL": "",
       "readmeURL": "",
       "files": {
@@ -136,7 +136,7 @@
       "version": "1.2",
       "week": "",
       "compatibility": "",
-      "description": "This version adds heavy cargo slots to armored saddles. Bearhide and Racing have same stats; Basic saddles all share the DLC stats.",
+      "description": "This version adds heavy cargo slots to armored saddles. Bearhide and Racing have same stats; Basic saddles all share the DLC stats. Improved Laika Armor.",
       "imageURL": "",
       "readmeURL": "",
       "files": {
