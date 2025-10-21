@@ -107,10 +107,10 @@
     {
       "name": "Rayvens_More_Stuff",
       "author": "Rayven",
-      "version": "1.1",
+      "version": "1.2",
       "week": "",
       "compatibility": "",
-      "description": "Decreased the speed of refined wood, platinum ingot, titanium ingot and titanium plates.",
+      "description": "This version decreases the amount of potato and corn needed to convert to flour.",
       "imageURL": "",
       "readmeURL": "",
       "files": {
