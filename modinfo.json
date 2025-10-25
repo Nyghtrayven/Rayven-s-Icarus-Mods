@@ -198,10 +198,10 @@
     {
       "name": "Rayvens_Workshop",
       "author": "Rayven",
-      "version": "1.4",
+      "version": "1.5",
       "week": "",
       "compatibility": "",
-      "description": "Added chac pistol to the list, made changes to ammo capacity and reload speed.",
+      "description": "This version increases the scoria, clay and obidian resource to 250.",
       "imageURL": "",
       "readmeURL": "",
       "files": {
