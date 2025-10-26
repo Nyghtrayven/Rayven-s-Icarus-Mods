@@ -94,10 +94,10 @@
     {
       "name": "Rayvens_Legendaries",
       "author": "Rayven",
-      "version": "1.6",
+      "version": "1.7",
       "week": "",
       "compatibility": "",
-      "description": "Added animal highlight distance to most legendaries. Decreased reload speed on some legendaries, increased ammo capacity on some of them as well. ",
+      "description": "Added animal highlight distance to most legendaries. Decreased reload speed on some legendaries, increased ammo capacity on some of them as well. [This version updates the rate of fire of the sniper rifle.]",
       "imageURL": "",
       "readmeURL": "",
       "files": {
