@@ -198,10 +198,10 @@
     {
       "name": "Rayvens_Workshop",
       "author": "Rayven",
-      "version": "1.5",
+      "version": "1.6",
       "week": "",
       "compatibility": "",
-      "description": "This version increases the scoria, clay and obidian resource to 250. All ammo containers drop at 500.",
+      "description": "Resource from workshop drop at 250. All ammo containers drop at 500. [This version increases the damage of all workshop arrows to reflect the damage composite arrows do. Also added 5.56 rifle rounds to the list.]",
       "imageURL": "",
       "readmeURL": "",
       "files": {
