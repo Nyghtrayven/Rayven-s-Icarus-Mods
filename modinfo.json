@@ -42,10 +42,10 @@
     {
       "name": "Rayvens_Better_Tames",
       "author": "Rayven",
-      "version": "1.1",
+      "version": "1.2",
       "week": "",
       "compatibility": "",
-      "description": "Added better stats for tames.",
+      "description": "Added better stats for tames. [This version decreases the amount of food chickens eat.]",
       "imageURL": "",
       "readmeURL": "",
       "files": {
